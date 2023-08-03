@@ -18,6 +18,8 @@ public class Arrays {
 			System.out.println("Exception: "+ e);
 			e.printStackTrace();
 		}
+
+		System.out.println("Array created.");
 	}
 
 }
